@@ -1,0 +1,23 @@
+2015/07/26 18:59:00 
+2015/07/26 19:00:20 Node 3 received a REQUEST message
+2015/07/26 19:00:20 Node 3 is forwarding a REQUEST to Node 1
+2015/07/26 19:00:30 Node 3 received a REQUEST message
+2015/07/26 19:00:30 Node 3 is forwarding a REQUEST to Node 1
+2015/07/26 19:00:40 Node 3 received a REQUEST message
+2015/07/26 19:00:40 Node 3 is forwarding a REQUEST to Node 1
+2015/07/26 19:00:49 Node: 3 send REQUEST msg with timestamp: 4
+2015/07/26 19:00:59 All Request Messages have been sent!
+2015/07/26 19:01:10 Node 3 received a PRIVILEGE message
+2015/07/26 19:01:10 Node 3 is sending the PRIVILEGE to Node 15
+2015/07/26 19:01:20 Node 3 received a PRIVILEGE message
+2015/07/26 19:01:20 Node 3 is sending the PRIVILEGE to Node 11
+2015/07/26 19:01:30 Node 3 received a PRIVILEGE message
+2015/07/26 19:01:30 Node 3 is sending the PRIVILEGE to Node 7
+2015/07/26 19:01:40 Node 3 received a PRIVILEGE message
+2015/07/26 19:01:50 Node 3 is returning the PRIVILEGE to Node 1
+2015/07/26 19:02:40 Node 3 received a PRIVILEGE message
+2015/07/26 19:02:40 Node 3 is returning the PRIVILEGE to Node 1
+2015/07/26 19:02:50 Node 3 received a PRIVILEGE message
+2015/07/26 19:02:50 Node 3 is returning the PRIVILEGE to Node 1
+2015/07/26 19:03:00 Node 3 received a PRIVILEGE message
+2015/07/26 19:03:00 Node 3 is returning the PRIVILEGE to Node 1

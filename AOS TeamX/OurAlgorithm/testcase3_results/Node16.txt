@@ -1,0 +1,5 @@
+2015/07/26 19:00:04 
+2015/07/26 19:00:20 Node: 16 send REQUEST msg with timestamp: 1
+2015/07/26 19:00:30 All Request Messages have been sent!
+2015/07/26 19:01:50 Node 16 received a PRIVILEGE message
+2015/07/26 19:02:00 Node 16 is returning the PRIVILEGE to Node 4

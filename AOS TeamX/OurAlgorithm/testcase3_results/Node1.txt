@@ -1,0 +1,48 @@
+2015/07/26 18:58:51 
+2015/07/26 19:00:20 Node 1 received a REQUEST message
+2015/07/26 19:00:20 Node 1 is sending the PRIVILEGE to Node 13
+2015/07/26 19:00:20 Node 1 received a REQUEST message
+2015/07/26 19:00:20 Node 1 received a REQUEST message
+2015/07/26 19:00:20 Node 1 received a REQUEST message
+2015/07/26 19:00:30 Node 1 received a REQUEST message
+2015/07/26 19:00:30 Node 1 received a REQUEST message
+2015/07/26 19:00:30 Node 1 received a REQUEST message
+2015/07/26 19:00:30 Node 1 received a REQUEST message
+2015/07/26 19:00:30 Node 1 received a PRIVILEGE message
+2015/07/26 19:00:30 Node 1 is sending the PRIVILEGE to Node 2
+2015/07/26 19:00:40 Node 1 received a REQUEST message
+2015/07/26 19:00:40 Node 1 received a REQUEST message
+2015/07/26 19:00:40 Node 1 received a REQUEST message
+2015/07/26 19:00:40 Node 1 received a REQUEST message
+2015/07/26 19:00:49 Node: 1 send REQUEST msg with timestamp: 4
+2015/07/26 19:00:49 Node 1 received a REQUEST message
+2015/07/26 19:00:49 Node 1 received a REQUEST message
+2015/07/26 19:00:50 Node 1 received a REQUEST message
+2015/07/26 19:00:59 All Request Messages have been sent!
+2015/07/26 19:01:10 Node 1 received a PRIVILEGE message
+2015/07/26 19:01:10 Node 1 is sending the PRIVILEGE to Node 3
+2015/07/26 19:01:50 Node 1 received a PRIVILEGE message
+2015/07/26 19:01:50 Node 1 is sending the PRIVILEGE to Node 4
+2015/07/26 19:02:30 Node 1 received a PRIVILEGE message
+2015/07/26 19:02:30 Node 1 is sending the PRIVILEGE to Node 9
+2015/07/26 19:02:40 Node 1 received a PRIVILEGE message
+2015/07/26 19:02:40 Node 1 is sending the PRIVILEGE to Node 2
+2015/07/26 19:02:40 Node 1 received a PRIVILEGE message
+2015/07/26 19:02:40 Node 1 is sending the PRIVILEGE to Node 3
+2015/07/26 19:02:40 Node 1 received a PRIVILEGE message
+2015/07/26 19:02:40 Node 1 is sending the PRIVILEGE to Node 4
+2015/07/26 19:02:40 Node 1 received a PRIVILEGE message
+2015/07/26 19:02:40 Node 1 is sending the PRIVILEGE to Node 5
+2015/07/26 19:02:50 Node 1 received a PRIVILEGE message
+2015/07/26 19:02:50 Node 1 is sending the PRIVILEGE to Node 2
+2015/07/26 19:02:50 Node 1 received a PRIVILEGE message
+2015/07/26 19:02:50 Node 1 is sending the PRIVILEGE to Node 3
+2015/07/26 19:02:50 Node 1 received a PRIVILEGE message
+2015/07/26 19:02:50 Node 1 is sending the PRIVILEGE to Node 4
+2015/07/26 19:02:50 Node 1 received a PRIVILEGE message
+2015/07/26 19:03:00 Node 1 is sending the PRIVILEGE to Node 2
+2015/07/26 19:03:00 Node 1 received a PRIVILEGE message
+2015/07/26 19:03:00 Node 1 is sending the PRIVILEGE to Node 3
+2015/07/26 19:03:00 Node 1 received a PRIVILEGE message
+2015/07/26 19:03:00 Node 1 is sending the PRIVILEGE to Node 4
+2015/07/26 19:03:00 Node 1 received a PRIVILEGE message
